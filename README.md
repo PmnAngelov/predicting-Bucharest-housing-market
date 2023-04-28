@@ -1,7 +1,8 @@
 # Predicting the Bucharest Housing Market - Personal Project
 Analyzing and predicting the prices of the housing market in Bucharest, Romania.
 
-The dataset file contains data related to the sale price of real estates (apartments) in Bucharest, Romania. The main source of the database is represented by www.imobiliare.ro, which is one of the most popular real estate websites in Romania. 
+This project uses machine learning techniques to predict apartment prices in Bucharest, Romania. The main source of the database is represented by www.imobiliare.ro, which is one of the most popular real estate websites in Romania. 
 
-The jupyter notebook contains an exploratory analysis of the data and the use machine learning with the purpose of finding the most suitable regression model for predicting apartment prices based on other variables.
+The project consists of the following components:
+* Data Preparation and Cleaning: The dataset is loaded using Pandas and prepared for machine learning. Data cleaning is performed to handle missing values, duplicate rows, and outliers. Categorical variables are converted to numerical using one-hot encoding or label encoding as needed. The dataset is split into training and testing sets.
 
