@@ -30,12 +30,6 @@ The project consists of the following components:
 * Their performance is evaluated on the testing data and metrics such as MSE, RMSE and R-squared.
 * The best-performing model is selected and and it's predictions are analyzed
 
-### 5. **Optimizing Results**
-* Feature engineering 
-* Calculating new columns in the dataset 
-* Training the model on the new training data
-* Analyzing the improved predictions
-
 ## Dependencies 
 This project uses the following Python libraries:
 * **NumPy**: for numerical computations
@@ -45,4 +39,4 @@ This project uses the following Python libraries:
 * **Scikit-learn**: for machine learning modeling
 
 ## Conclusion
-The project demonstrates how statistical analysis and machine learning models can be used to predict real estate prices based on different features. The project also shows the importance of data cleaning, visual analysis and feature engineering in preparing data for machine learning models and gaining valuable insights from it.
+The project demonstrates how statistical analysis and machine learning models can be used to predict real estate prices based on different features. The project also shows the importance of data cleaning, preprocessing and visual analysis in preparing data for machine learning models and gaining valuable insights from it.
