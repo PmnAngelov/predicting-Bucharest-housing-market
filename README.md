@@ -30,5 +30,13 @@ The project consists of the following components:
 * Their performance is evaluated on the testing data and metrics such as MSE, RMSE and R-squared.
 * The best-performing model is selected and and it's predictions are analyzed
 
+## Dependencies 
+This project uses the following Python libraries:
+* **NumPy**: for numerical computations
+* **Pandas**: for data manipulation and analysis
+* **Matplotlib**: for data visualization
+* **Seaborn**: for data visualization
+* **Scikit-learn**: for machine learning modeling
+
 ## Conclusion
 The project demonstrates how statistical analysis and machine learning models can be used to predict housing prices based on different features. The project also shows the importance of data cleaning, preprocessing, and visual analyses in preparing data for machine learning models and gaining valuable insights from it.
