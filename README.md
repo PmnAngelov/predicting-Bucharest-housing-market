@@ -1,5 +1,5 @@
 # Predicting the Bucharest Housing Market - Personal Project
-Analyzing and predicting the prices of the housing market in Bucharest, Romania.
+Analyzing and predicting the prices of the housing market in Bucharest, Romania. 
 
 ## Project Overview
 This project uses machine learning techniques to predict apartment prices in Bucharest, Romania. The main source of the database is represented by www.imobiliare.ro, which is one of the most popular real estate websites in Romania. 
